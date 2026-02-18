@@ -1,0 +1,10 @@
+metric,key,value
+count,logout,1
+count,login,4
+count,browse,3
+count,purchase,2
+average,login,0.53
+average,browse,1.81
+average,purchase,1.98
+average,logout,0.20
+unique_users,all,10
